@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:app/model/data.dart';
 
-class StatusScreen extends StatefulWidget {
-  const StatusScreen({Key? key}) : super(key: key);
+class CheckStatus extends StatefulWidget {
+  const CheckStatus({Key? key}) : super(key: key);
 
   @override
-  State<StatusScreen> createState() => _StatusScreenState();
+  State<CheckStatus> createState() => _CheckStatusState();
 }
 
-class _StatusScreenState extends State<StatusScreen> {
+class _CheckStatusState extends State<CheckStatus> {
   final db = Mysql();
   List<Map<String, dynamic>> items = [];
   List<String> statusList = [];
@@ -22,7 +22,8 @@ class _StatusScreenState extends State<StatusScreen> {
 
   void _getItem() {
     db.getConnection().then((conn) {
-      String sql = 'SELECT * FROM item JOIN status ON status.status_code = item.status_code;';
+      String sql =
+          'SELECT * FROM item JOIN status ON status.status_code = item.status_code;';
       conn.query(sql).then((results) {
         List<Map<String, dynamic>> items = [];
         for (var row in results) {
@@ -46,7 +47,9 @@ class _StatusScreenState extends State<StatusScreen> {
 
   List<Map<String, dynamic>> getFilteredItems() {
     if (selectedStatus != null && selectedStatus!.isNotEmpty) {
-      return items.where((item) => item['status_name'] == selectedStatus).toList();
+      return items
+          .where((item) => item['status_name'] == selectedStatus)
+          .toList();
     }
     return items;
   }
@@ -81,12 +84,15 @@ class _StatusScreenState extends State<StatusScreen> {
               itemBuilder: (BuildContext context, int index) {
                 return Card(
                   child: ListTile(
-                    title: Text('Item ID: ${getFilteredItems()[index]['item_id']}'),
+                    title: Text(
+                        'Item ID: ${getFilteredItems()[index]['item_id']}'),
                     subtitle: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Item Name: ${getFilteredItems()[index]['item_name']}'),
-                        Text('Status Name: ${getFilteredItems()[index]['status_name']}'),
+                        Text(
+                            'Item Name: ${getFilteredItems()[index]['item_name']}'),
+                        Text(
+                            'Status Name: ${getFilteredItems()[index]['status_name']}'),
                       ],
                     ),
                     leading: Image.network(
