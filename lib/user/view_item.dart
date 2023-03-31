@@ -42,7 +42,7 @@ class _ViewItemState extends State<ViewItem> {
         itemBuilder: (BuildContext context, int index) {
           return Card(
             child: ListTile(
-              title: Text('Item ID: ${item[index][0]}'),
+              title: Text('Serial No.: ${item[index][7]}'),
               subtitle: Text('Item Name: ${item[index][1]}'),
               leading: Image.network(
                 '${item[index][8]}',

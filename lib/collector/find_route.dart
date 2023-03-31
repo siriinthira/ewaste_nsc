@@ -186,19 +186,19 @@ class _sendItemNearbyBinState extends State<sendItemNearbyBin> {
                 ),
               ),
               const SizedBox(height: 10),
-              SizedBox(
-                width: 240,
-                child: ElevatedButton(
-                  style: style,
-                  onPressed: () {
-                    // Navigator.push(
-                    //     context,
-                    //     MaterialPageRoute(
-                    //         builder: (context) => ViewSelectedItem()));
-                  },
-                  child: const Text('คลิกดูรายการขยะ'),
-                ),
-              ),
+              // SizedBox(
+              //   width: 240,
+              //   child: ElevatedButton(
+              //     style: style,
+              //     onPressed: () {
+              //       // Navigator.push(
+              //       //     context,
+              //       //     MaterialPageRoute(
+              //       //         builder: (context) => ViewSelectedItem()));
+              //     },
+              //     child: const Text('คลิกดูรายการขยะ'),
+              //   ),
+              // ),
               const SizedBox(height: 5),
               SizedBox(
                 width: 240,

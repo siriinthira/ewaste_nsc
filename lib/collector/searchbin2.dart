@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:app/model/bin_model.dart';
 
-class searchBin extends StatefulWidget {
-  const searchBin({super.key});
+class searchBin2 extends StatefulWidget {
+  const searchBin2({super.key});
 
   @override
-  State<searchBin> createState() => _searchBinState();
+  State<searchBin2> createState() => _searchBin2State();
 }
 
-class _searchBinState extends State<searchBin> {
+class _searchBin2State extends State<searchBin2> {
   static List<BinModel> main_bin_list = [
     BinModel(
         "โรงอาหาร",

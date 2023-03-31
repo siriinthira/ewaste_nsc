@@ -68,17 +68,17 @@ class _ViewAllItemsState extends State<ViewAllItems> {
           );
         },
       ),
-      floatingActionButton: FloatingActionButton.extended(
-        onPressed: () {
-          // Add your onPressed code here!
-          Navigator.push(
-              context, MaterialPageRoute(builder: (context) => receiveTask()));
-        },
-        label: const Text('คลิกหน้าถัดไป'),
-        icon: const Icon(Icons.skip_next_outlined),
-        backgroundColor: Colors.green,
-      ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+      // floatingActionButton: FloatingActionButton.extended(
+      //   onPressed: () {
+      //     // Add your onPressed code here!
+      //     // Navigator.push(
+      //     //     context, MaterialPageRoute(builder: (context) => receiveTask()));
+      //   },
+      //   label: const Text('คลิกหน้าถัดไป'),
+      //   icon: const Icon(Icons.skip_next_outlined),
+      //   backgroundColor: Colors.green,
+      // ),
+      // floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
     );
   }
 }

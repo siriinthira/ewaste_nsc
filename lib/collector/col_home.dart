@@ -1,9 +1,9 @@
+import 'package:app/collector/searchbin2.dart';
 import 'package:app/collector/view_all_items.dart';
 import 'package:flutter/material.dart';
 import 'package:app/collector//view_request.dart';
-import 'package:app/collector/view_collector_items.dart';
+import 'package:app/collector/view_selected_item.dart';
 import 'package:app/collector/check_status.dart';
-import 'package:app/collector/search_bin2.dart';
 
 class CollectorHome extends StatefulWidget {
   const CollectorHome({super.key, required this.title});
@@ -310,7 +310,7 @@ class _CollectorHomeState extends State<CollectorHome> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => searchBin()));
+                                builder: (context) => searchBin2()));
                       },
                       child: Container(
                         decoration: BoxDecoration(

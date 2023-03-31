@@ -1,16 +1,18 @@
+import 'package:app/collector/view_selected_item.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'dart:async';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:google_maps_routes/google_maps_routes.dart';
 import 'package:mysql1/mysql1.dart';
-import 'package:app/collector/view_all_items.dart';
+import 'package:app/collector/view_selected_item.dart';
 import 'find_route.dart';
 
 import 'package:permission_handler/permission_handler.dart';
 
 class receiveTask extends StatefulWidget {
-  const receiveTask({super.key});
+  final List<Map<String, dynamic>> selectedList;
+  const receiveTask({Key? key, required this.selectedList}) : super(key: key);
 
   @override
   State<receiveTask> createState() => _receiveTaskState();
@@ -307,10 +309,10 @@ class _receiveTaskState extends State<receiveTask> {
                 child: ElevatedButton(
                   style: style,
                   onPressed: () {
-                    // Navigator.push(
-                    //     context,
-                    //     MaterialPageRoute(
-                    //         builder: (context) => ViewSelectedItem()));
+                    Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => ViewSelectedItem()));
                   },
                   child: const Text('คลิกดูรายการขยะ'),
                 ),
