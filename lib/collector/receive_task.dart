@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:google_maps_routes/google_maps_routes.dart';
 import 'package:mysql1/mysql1.dart';
-import 'package:app/collector/view_user_selected_item.dart';
+import 'package:app/collector/view_all_items.dart';
 import 'find_route.dart';
 
 import 'package:permission_handler/permission_handler.dart';

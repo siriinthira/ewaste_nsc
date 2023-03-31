@@ -5,7 +5,7 @@ import 'dart:async';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:app/collector/arrive_at_bin.dart';
 // import 'package:user/collector/receive_task_from_user/main_location.dart';
-import 'package:app/collector/view_user_selected_item.dart';
+import 'package:app/collector/view_all_items.dart';
 
 import 'package:location/location.dart';
 import 'delivery_success.dart';

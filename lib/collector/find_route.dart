@@ -3,7 +3,7 @@ import 'package:geolocator/geolocator.dart';
 import 'dart:async';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 // import 'package:app/collector/main_location.dart';
-import 'package:app/collector/view_user_selected_item.dart';
+import 'package:app/collector/view_all_items.dart';
 
 import 'delivery_success.dart';
 import 'nearbybin.dart';

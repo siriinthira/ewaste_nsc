@@ -1,6 +1,7 @@
+import 'package:app/collector/view_all_items.dart';
 import 'package:flutter/material.dart';
 import 'package:app/collector//view_request.dart';
-import 'package:app/collector//view_items.dart';
+import 'package:app/collector/view_collector_items.dart';
 import 'package:app/collector/check_status.dart';
 import 'package:app/collector/search_bin2.dart';
 
@@ -216,7 +217,7 @@ class _CollectorHomeState extends State<CollectorHome> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => ViewCollectorItem()));
+                                builder: (context) => ViewAllItems()));
                       },
                       child: Container(
                         decoration: BoxDecoration(
