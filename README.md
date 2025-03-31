@@ -1,17 +1,37 @@
-# app
+# eWaste
+Build a Prototype of an e-Waste Management System
 
-A new Flutter project.
+---------------------------------------------------------------------------
+# UX UI Designer
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Empathize 
+User Persona, User Scenario, User Story
+Online Interview, Survey
 
-A few resources to get you started if this is your first Flutter project:
+# Define
+Problem Statement, Pain Points, User Journey, Roadmap
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Ideate
+Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ewaste_nsc
+# Prototype 
+wireframe, mockup, prototype (re-do), user flow diagram
+<p>
+  <img src = "https://github.com/user-attachments/assets/709dc2d9-5946-42fd-97b2-086bb6a19633"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
+</p>
+
+# Test
+User Testing, User Journey, Pain Points, User Feedback, 
+
+---------------------------------------------------------------------------
+
+# Database Design
+  <img src = "https://github.com/user-attachments/assets/50e8861f-98d2-492d-a67a-229a1ff45c28"/>
+</p>
+
+
+
