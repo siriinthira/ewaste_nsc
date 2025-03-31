@@ -15,6 +15,9 @@ Problem Statement, Pain Points, User Journey, Roadmap
 # Ideate
 Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
 
+# Mockup 
+
+
 # Prototype 
 wireframe, mockup, prototype (re-do), user flow diagram
 <p>
