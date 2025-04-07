@@ -16,7 +16,7 @@ Problem Statement, Pain Points, User Journey, Roadmap
 Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
 
 # Mockup 
-
+https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
 
 # Prototype 
 wireframe, mockup, prototype (re-do), user flow diagram
