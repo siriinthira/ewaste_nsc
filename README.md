@@ -22,7 +22,18 @@ The empathize stage involves understanding the users and their needs in order to
 
 
 # Define
-Problem Statement
+Problem Statement:
+In Thailand, the amount of e-waste is increasing significantly, and people do not have an efficient or convenient way to dispose of their e-waste. Improper disposal leads to environmental degradation, health risks, and reduced quality of life. There is a lack of transparency in the management of e-waste disposal, and citizens are often unaware of where to dispose of their electronic waste.
+
+**Design Goals:**
+
+Provide convenience: Users should be able to easily find e-waste disposal points near them and request assistance (volunteers) for pickup.
+
+Ensure accountability: Using Blockchain to track and provide transparency regarding the status of e-waste disposal.
+
+Raise awareness: Provide users with clear information about the environmental impact and health risks of improper e-waste disposal.
+
+Increase user engagement: Create a sense of community involvement in proper e-waste management.
 
 # Ideate
 Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
