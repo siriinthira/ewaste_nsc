@@ -8,17 +8,17 @@ Build a Prototype of an e-Waste Management System
 # Empathize 
 The empathize stage involves understanding the users and their needs in order to create a solution that addresses the challenges they face in managing e-waste. Based on the provided concept, the target users are:
 
-People who need to dispose of electronic waste (E-Waste): This includes general consumers who have non-functional electronics or electronics that have reached the end of their useful life. They may not know where to dispose of them or how to do it responsibly.
+**People who need to dispose of electronic waste (E-Waste):** This includes general consumers who have non-functional electronics or electronics that have reached the end of their useful life. They may not know where to dispose of them or how to do it responsibly.
 
-Stakeholders in e-waste management: This includes volunteers, government agencies, and private organizations responsible for the collection, recycling, and disposal of e-waste. These users need tools to track the disposal process and ensure proper handling of waste.
+**Stakeholders in e-waste management:** This includes volunteers, government agencies, and private organizations responsible for the collection, recycling, and disposal of e-waste. These users need tools to track the disposal process and ensure proper handling of waste.
 
-Key insights from user research:
+**Key insights from user research:**
 
-People need a simple, convenient, and trustworthy way to dispose of e-waste.
+**People** need a simple, convenient, and trustworthy way to dispose of e-waste.
 
-Stakeholders need efficient tools to monitor and manage the disposal process, as well as ensure transparency and accountability.
+**Stakeholders** need efficient tools to monitor and manage the disposal process, as well as ensure transparency and accountability.
 
-Environmental impact is a concern for all parties, so the solution should highlight sustainability and health safety.
+**Environmental impact** is a concern for all parties, so the solution should highlight sustainability and health safety.
 
 
 # Define
