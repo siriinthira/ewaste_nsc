@@ -164,6 +164,7 @@ Personality:
 Practical and solution-oriented. She values convenience, sustainability, and transparency. She wants to contribute to a cleaner environment but is not familiar with e-waste management procedures.
 
 **User Persona 2:**
+
 Name: Kittiphong Panya
 Age: 40
 Occupation: Environmental Agency Worker (E-Waste Collector)
