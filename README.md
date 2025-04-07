@@ -15,6 +15,9 @@ Problem Statement, Pain Points, User Journey, Roadmap
 # Ideate
 Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
 
+# Wireframe
+...
+
 # Mockup 
 https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
 
