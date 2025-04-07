@@ -132,6 +132,14 @@ A visual ledger showing the journey of the e-waste: pick-up, transportation, rec
 
 Display user’s past e-waste disposal history, feedback, and rewards earned.
 
+
+# Mockup V.2
+
+# Prototype V.2
+
+
+----------------------------------------------------------------------------------
+
 # User Persona
 
 **User Persona 1:**
