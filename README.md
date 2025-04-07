@@ -22,7 +22,7 @@ The empathize stage involves understanding the users and their needs in order to
 
 
 # Define
-Problem Statement, Pain Points, User Journey, Roadmap
+Problem Statement
 
 # Ideate
 Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
