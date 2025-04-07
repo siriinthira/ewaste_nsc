@@ -85,13 +85,13 @@ A rewards system that incentivizes users for properly disposing of e-waste or pa
 A community forum where users can share tips, post local e-waste disposal events, and discuss environmental sustainability.
 
 
-# Wireframe
+# Wireframe V.1
 ...
 
-# Mockup 
+# Mockup V.1
 https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
 
-# Prototype 
+# Prototype V.1
 wireframe, mockup, prototype (re-do), user flow diagram
 <p>
   <img src = "https://github.com/user-attachments/assets/709dc2d9-5946-42fd-97b2-086bb6a19633"/>
