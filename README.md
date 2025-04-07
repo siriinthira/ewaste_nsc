@@ -30,8 +30,15 @@ wireframe, mockup, prototype (re-do), user flow diagram
   <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
 </p>
 
-# Usability Testing
-User Testing, User Journey, Pain Points, User Feedback, 
+# User Persona
+
+# User Story
+
+# User Testing, Feedback & Interview
+
+# User Journey
+
+# Pain Points
 
 ---------------------------------------------------------------------------
 
