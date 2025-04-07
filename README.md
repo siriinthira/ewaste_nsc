@@ -86,7 +86,7 @@ A community forum where users can share tips, post local e-waste disposal events
 
 
 # Wireframe V.1
-...
+....
 
 # Mockup V.1
 https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
@@ -99,6 +99,38 @@ wireframe, mockup, prototype (re-do), user flow diagram
 <p>
   <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
 </p>
+
+# Wireframe V.2
+
+**Wireframe & User Flow Ideas:**
+
+**Onboarding Screen:**
+
+Simple introduction of the app’s goals and a clear call to action: “Find nearby e-waste disposal points.”
+
+**Main Screen (Home Page):**
+
+Map view of nearby e-waste disposal points.
+
+Quick access to request pickup and view notifications.
+
+Display of educational resources on e-waste management.
+
+**Request Pickup Flow:**
+
+Users tap a “Request Pickup” button.
+
+Select the type of e-waste and schedule a pickup time.
+
+Confirm details and track the assigned volunteer's progress.
+
+**Blockchain Tracking Screen:**
+
+A visual ledger showing the journey of the e-waste: pick-up, transportation, recycling, and final disposal.
+
+**User Profile:**
+
+Display user’s past e-waste disposal history, feedback, and rewards earned.
 
 # User Persona
 
