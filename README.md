@@ -37,7 +37,53 @@ In Thailand, the amount of e-waste is increasing significantly, and people do no
 **Increase user engagement:** Create a sense of community involvement in proper e-waste management.
 
 # Ideate
-Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
+
+In this phase, we brainstorm and come up with potential design solutions that address the needs and goals established in the define stage.
+
+**Key Features to Implement:**
+
+**User Profiles & Authentication:**
+
+**End users (consumers):** Simple login with social media or email, enabling easy access to disposal services.
+
+**Admin/Volunteers:** More detailed profiles to manage collection points and track e-waste disposal.
+
+**E-Waste Collection Points Map:**
+
+A map interface where users can search and locate the nearest e-waste disposal points.
+
+Filters for types of e-waste accepted, availability of volunteers, and hours of operation.
+
+**Request Pickup Feature:**
+
+A button for users to request a volunteer to pick up their e-waste directly from their location.
+
+A real-time tracking system that shows the volunteer’s estimated time of arrival.
+
+E-Waste Tracking & Transparency (Blockchain Integration):
+
+A Blockchain ledger that records every step of the e-waste disposal process for transparency.
+
+Users can check the disposal history for accountability (who is responsible, where and when the waste was disposed of, and its final destination).
+
+**Notifications & Reminders:**
+
+Push notifications to remind users about upcoming scheduled pickups, local disposal points, or new information about e-waste disposal.
+
+Feedback loops where users can rate their experience and report issues with e-waste management.
+
+**Educational Section:**
+
+Information on the dangers of improper disposal and how proper e-waste management can contribute to a healthier environment.
+
+Tutorial videos on how to correctly prepare e-waste for disposal (e.g., removing batteries).
+
+**Sustainability & Community Engagement:**
+
+A rewards system that incentivizes users for properly disposing of e-waste or participating in community programs (e.g., points for each e-waste disposal that can be redeemed for rewards).
+
+A community forum where users can share tips, post local e-waste disposal events, and discuss environmental sustainability.
+
 
 # Wireframe
 ...
