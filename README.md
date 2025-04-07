@@ -266,7 +266,9 @@ Kittiphong should have access to a report showing the types and amounts of e-was
 --------------------------------------------------------------------------
 
 # User Journey
+
 A user journey for Sudarat:
+
 Launch App → Find Nearby Collection Points → Select Pickup Option → Confirm Pickup Time → Receive Pickup Confirmation → Wait for Pickup → Check Blockchain Status After Disposal → Rate the Service.
 
 # Pain Points
