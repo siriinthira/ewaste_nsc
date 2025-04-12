@@ -103,29 +103,29 @@ The empathize stage involves understanding the users and their needs in order to
 
 # KPIs
 
-User Engagement:
+**User Engagement:**
 
 Active Users: Track daily/weekly/monthly active users to measure engagement.
 
 Item Submission Rate: Monitor how many items users log for disposal.
 
-Collection & Pickup Efficiency:
+**Collection & Pickup Efficiency:**
 
 Pickup Completion Rate: Measure the percentage of pickup requests completed.
 
 Average Pickup Time: Track the average time for volunteers to complete pickups.
 
-Volunteer Engagement:
+**Volunteer Engagement:**
 
 Volunteer Pickup Completion Rate: Monitor how many pickup assignments volunteers complete.
 
-Recycling Efficiency:
+**Recycling Efficiency:**
 
 Amount of E-Waste Collected: Track the total weight or volume of e-waste collected.
 
 Items Recycled Responsibly: Measure the percentage of items recycled or disposed of properly.
 
-User Satisfaction:
+**User Satisfaction:**
 
 User Retention Rate: Track how many users return to the app after their first use.
 
