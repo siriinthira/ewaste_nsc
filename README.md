@@ -85,7 +85,9 @@ Material recovery and reuse
 # UX UI Design Process
 
 # Empathize 
-The empathize stage involves understanding the users and their needs in order to create a solution that addresses the challenges they face in managing e-waste. Based on the provided concept, the target users are:
+The empathize stage involves understanding the users and their needs in order to create a solution that addresses the challenges they face in managing e-waste. 
+
+**Target Users:**
 
 **People who need to dispose of electronic waste (E-Waste):** This includes general consumers who have non-functional electronics or electronics that have reached the end of their useful life. They may not know where to dispose of them or how to do it responsibly.
 
