@@ -68,7 +68,7 @@ Verified and sorted
 
 Devices with personal or sensitive data undergo secure data wiping or destruction
 
-**6. Recycling Process (คัดแยกชิ้นส่วน รีไซเคิล)**
+**6. Recycling Process**
 Items are forwarded to certified recycling facilities for:
 
 Disassembly (คัดแยกชิ้นส่วน)
