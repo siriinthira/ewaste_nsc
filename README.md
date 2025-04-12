@@ -13,7 +13,7 @@ This info helps in tracking pickups, item history, and communication.
 
 Users log items they want to dispose of, providing:
 
-Serial No.
+Serial No. (for tracking)
 
 Item Genre (e.g., mobile phone, monitor, battery)
 
