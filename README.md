@@ -35,55 +35,7 @@ In Thailand, the amount of e-waste is increasing significantly, and people do no
 
 **Increase user engagement:** Create a sense of community involvement in proper e-waste management.
 
-# Ideate
 
-In this phase, we brainstorm and come up with potential design solutions that address the needs and goals established in the define stage.
-
-**Key Features to Implement:**
-
-**User Profiles & Authentication:**
-
-**End users (consumers):** Simple login with social media or email, enabling easy access to disposal services.
-
-**Admin/Volunteers:** More detailed profiles to manage collection points and track e-waste disposal.
-
-**E-Waste Collection Points Map:**
-
-A map interface where users can search and locate the nearest e-waste disposal points.
-
-Filters for types of e-waste accepted, availability of volunteers, and hours of operation.
-
-**Request Pickup Feature:**
-
-A button for users to request a volunteer to pick up their e-waste directly from their location.
-
-A real-time tracking system that shows the volunteer’s estimated time of arrival.
-
-E-Waste Tracking & Transparency (Blockchain Integration):
-
-A Blockchain ledger that records every step of the e-waste disposal process for transparency.
-
-Users can check the disposal history for accountability (who is responsible, where and when the waste was disposed of, and its final destination).
-
-**Notifications & Reminders:**
-
-Push notifications to remind users about upcoming scheduled pickups, local disposal points, or new information about e-waste disposal.
-
-Feedback loops where users can rate their experience and report issues with e-waste management.
-
-**Educational Section:**
-
-Information on the dangers of improper disposal and how proper e-waste management can contribute to a healthier environment.
-
-Tutorial videos on how to correctly prepare e-waste for disposal (e.g., removing batteries).
-
-**Sustainability & Community Engagement:**
-
-A rewards system that incentivizes users for properly disposing of e-waste or participating in community programs (e.g., points for each e-waste disposal that can be redeemed for rewards).
-
-A community forum where users can share tips, post local e-waste disposal events, and discuss environmental sustainability.
-
----------------------------------------------------------------------------
 
 # User Persona
 
@@ -144,7 +96,8 @@ Kittiphong is tech-savvy and used to working with digital systems to manage reso
 Personality:
 Responsible and detail-oriented. He cares deeply about environmental sustainability and public health. He is proactive in finding ways to improve systems for better management.
 
----------------------------------------------------------------------------
+
+
 
 # User Scenario
 Sudarat Chaiyathavorn, a 35-year-old office manager, is looking to dispose of her broken phone responsibly. 
@@ -152,7 +105,14 @@ She uses the app to locate the nearest collection point, but since she’s busy,
 She schedules the pickup and receives confirmation through the app. After the pickup is completed, she checks the
 status of her e-waste using the blockchain ledger to ensure it was recycled properly.
 
----------------------------------------------------------------------------
+
+
+# User Journey & Pain Points
+
+A user journey for Sudarat:
+
+Launch App → Find Nearby Collection Points → Select Pickup Option → Confirm Pickup Time → Receive Pickup Confirmation → Wait for Pickup → Check Blockchain Status After Disposal → Rate the Service.
+
 
 # User Story
 
@@ -218,15 +178,66 @@ A transparent ledger on the blockchain will record all actions taken during the 
 
 Kittiphong should have access to a report showing the types and amounts of e-waste collected to optimize future collection efforts.
 
---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
-# Wireframe V.1
+# Ideate
+
+In this phase, we brainstorm and come up with potential design solutions that address the needs and goals established in the define stage.
+
+**Key Features to Implement:**
+
+**User Profiles & Authentication:**
+
+**End users (consumers):** Simple login with social media or email, enabling easy access to disposal services.
+
+**Admin/Volunteers:** More detailed profiles to manage collection points and track e-waste disposal.
+
+**E-Waste Collection Points Map:**
+
+A map interface where users can search and locate the nearest e-waste disposal points.
+
+Filters for types of e-waste accepted, availability of volunteers, and hours of operation.
+
+**Request Pickup Feature:**
+
+A button for users to request a volunteer to pick up their e-waste directly from their location.
+
+A real-time tracking system that shows the volunteer’s estimated time of arrival.
+
+E-Waste Tracking & Transparency (Blockchain Integration):
+
+A Blockchain ledger that records every step of the e-waste disposal process for transparency.
+
+Users can check the disposal history for accountability (who is responsible, where and when the waste was disposed of, and its final destination).
+
+**Notifications & Reminders:**
+
+Push notifications to remind users about upcoming scheduled pickups, local disposal points, or new information about e-waste disposal.
+
+Feedback loops where users can rate their experience and report issues with e-waste management.
+
+**Educational Section:**
+
+Information on the dangers of improper disposal and how proper e-waste management can contribute to a healthier environment.
+
+Tutorial videos on how to correctly prepare e-waste for disposal (e.g., removing batteries).
+
+**Sustainability & Community Engagement:**
+
+A rewards system that incentivizes users for properly disposing of e-waste or participating in community programs (e.g., points for each e-waste disposal that can be redeemed for rewards).
+
+A community forum where users can share tips, post local e-waste disposal events, and discuss environmental sustainability.
+
+# User Flow v1
+...
+
+# Wireframe v1
 ....
 
-# Mockup V.1
+# Mockup v1
 https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
 
-# Prototype V.1
+# Prototype v1
 wireframe, mockup, prototype (re-do), user flow diagram
 <p>
   <img src = "https://github.com/user-attachments/assets/709dc2d9-5946-42fd-97b2-086bb6a19633"/>
@@ -237,20 +248,13 @@ wireframe, mockup, prototype (re-do), user flow diagram
 
 ---------------------------------------------------------------------------
 
-
-# User Journey
-
-A user journey for Sudarat:
-
-Launch App → Find Nearby Collection Points → Select Pickup Option → Confirm Pickup Time → Receive Pickup Confirmation → Wait for Pickup → Check Blockchain Status After Disposal → Rate the Service.
-
-# Pain Points
-
-# User Testing, Feedback & Interview
+# Usability Testing v1
 
 ---------------------------------------------------------------------------
 
-# Wireframe V.2
+# User Flow v2
+
+# Wireframe v2
 
 **Wireframe & User Flow Ideas:**
 
@@ -283,11 +287,14 @@ A visual ledger showing the journey of the e-waste: pick-up, transportation, rec
 Display user’s past e-waste disposal history, feedback, and rewards earned.
 
 
-# Mockup V.2
+# Mockup v2
 
-# Prototype V.2
+# Prototype v2
 
 
+----------------------------------------------------------------------------------
+
+# What I Learned
 ----------------------------------------------------------------------------------
 
 
