@@ -71,7 +71,7 @@ Devices with personal or sensitive data undergo secure data wiping or destructio
 **6. Recycling Process**
 Items are forwarded to certified recycling facilities for:
 
-Disassembly (คัดแยกชิ้นส่วน)
+Disassembly 
 
 Material recovery and reuse
 ---------------------------------------------------------------------------
