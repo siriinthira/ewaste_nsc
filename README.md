@@ -101,8 +101,35 @@ The empathize stage involves understanding the users and their needs in order to
 
 **Environmental impact** is a concern for all parties, so the solution should highlight sustainability and health safety.
 
-**KPI:**
-Carbon Reduction (%)
+# KPIs
+
+User Engagement:
+
+Active Users: Track daily/weekly/monthly active users to measure engagement.
+
+Item Submission Rate: Monitor how many items users log for disposal.
+
+Collection & Pickup Efficiency:
+
+Pickup Completion Rate: Measure the percentage of pickup requests completed.
+
+Average Pickup Time: Track the average time for volunteers to complete pickups.
+
+Volunteer Engagement:
+
+Volunteer Pickup Completion Rate: Monitor how many pickup assignments volunteers complete.
+
+Recycling Efficiency:
+
+Amount of E-Waste Collected: Track the total weight or volume of e-waste collected.
+
+Items Recycled Responsibly: Measure the percentage of items recycled or disposed of properly.
+
+User Satisfaction:
+
+User Retention Rate: Track how many users return to the app after their first use.
+
+App Rating: Measure user feedback and satisfaction through ratings and reviews.
 
 # Define
 
