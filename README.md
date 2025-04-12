@@ -85,63 +85,6 @@ A community forum where users can share tips, post local e-waste disposal events
 
 ---------------------------------------------------------------------------
 
-# Wireframe V.1
-....
-
-# Mockup V.1
-https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
-
-# Prototype V.1
-wireframe, mockup, prototype (re-do), user flow diagram
-<p>
-  <img src = "https://github.com/user-attachments/assets/709dc2d9-5946-42fd-97b2-086bb6a19633"/>
-</p>
-<p>
-  <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
-</p>
-
----------------------------------------------------------------------------
-
-# Wireframe V.2
-
-**Wireframe & User Flow Ideas:**
-
-**Onboarding Screen:**
-
-Simple introduction of the app’s goals and a clear call to action: “Find nearby e-waste disposal points.”
-
-**Main Screen (Home Page):**
-
-Map view of nearby e-waste disposal points.
-
-Quick access to request pickup and view notifications.
-
-Display of educational resources on e-waste management.
-
-**Request Pickup Flow:**
-
-Users tap a “Request Pickup” button.
-
-Select the type of e-waste and schedule a pickup time.
-
-Confirm details and track the assigned volunteer's progress.
-
-**Blockchain Tracking Screen:**
-
-A visual ledger showing the journey of the e-waste: pick-up, transportation, recycling, and final disposal.
-
-**User Profile:**
-
-Display user’s past e-waste disposal history, feedback, and rewards earned.
-
-
-# Mockup V.2
-
-# Prototype V.2
-
-
-----------------------------------------------------------------------------------
-
 # User Persona
 
 **User Persona 1:**
@@ -277,6 +220,24 @@ Kittiphong should have access to a report showing the types and amounts of e-was
 
 --------------------------------------------------------------------------
 
+# Wireframe V.1
+....
+
+# Mockup V.1
+https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
+
+# Prototype V.1
+wireframe, mockup, prototype (re-do), user flow diagram
+<p>
+  <img src = "https://github.com/user-attachments/assets/709dc2d9-5946-42fd-97b2-086bb6a19633"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
+</p>
+
+---------------------------------------------------------------------------
+
+
 # User Journey
 
 A user journey for Sudarat:
@@ -288,6 +249,48 @@ Launch App → Find Nearby Collection Points → Select Pickup Option → Confir
 # User Testing, Feedback & Interview
 
 ---------------------------------------------------------------------------
+
+# Wireframe V.2
+
+**Wireframe & User Flow Ideas:**
+
+**Onboarding Screen:**
+
+Simple introduction of the app’s goals and a clear call to action: “Find nearby e-waste disposal points.”
+
+**Main Screen (Home Page):**
+
+Map view of nearby e-waste disposal points.
+
+Quick access to request pickup and view notifications.
+
+Display of educational resources on e-waste management.
+
+**Request Pickup Flow:**
+
+Users tap a “Request Pickup” button.
+
+Select the type of e-waste and schedule a pickup time.
+
+Confirm details and track the assigned volunteer's progress.
+
+**Blockchain Tracking Screen:**
+
+A visual ledger showing the journey of the e-waste: pick-up, transportation, recycling, and final disposal.
+
+**User Profile:**
+
+Display user’s past e-waste disposal history, feedback, and rewards earned.
+
+
+# Mockup V.2
+
+# Prototype V.2
+
+
+----------------------------------------------------------------------------------
+
+
 
 # Database Design
   <img src = "https://github.com/user-attachments/assets/50e8861f-98d2-492d-a67a-229a1ff45c28"/>
