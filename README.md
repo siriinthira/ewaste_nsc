@@ -13,6 +13,8 @@ This info helps in tracking pickups, item history, and communication.
 
 Users log items they want to dispose of, providing:
 
+Serial No.
+
 Item Genre (e.g., mobile phone, monitor, battery)
 
 Weight
