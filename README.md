@@ -34,9 +34,9 @@ When the user requests a pickup:
 
 They select a pickup location on the map (can be different from their profile address).
 
-A volunteer collector is notified and goes to the selected location.
+A volunteer collector is notified, accepts the request, and proceeds to the designated location.
 
-The items are picked up and delivered to the Collection & Sorting Center (ศูนย์รวบรวมและคัดแยกขยะ).
+The items are picked up and delivered to the Collection & Sorting Center .
 
 **✅ Collector Incentive System**
 
