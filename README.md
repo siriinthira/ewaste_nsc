@@ -1,9 +1,8 @@
-# eWaste
+# e-Waste
 Build a Prototype of an e-Waste Management System
 
 ---------------------------------------------------------------------------
 # UX UI Designer
-
 
 # Empathize 
 The empathize stage involves understanding the users and their needs in order to create a solution that addresses the challenges they face in managing e-waste. Based on the provided concept, the target users are:
@@ -84,6 +83,7 @@ A rewards system that incentivizes users for properly disposing of e-waste or pa
 
 A community forum where users can share tips, post local e-waste disposal events, and discuss environmental sustainability.
 
+---------------------------------------------------------------------------
 
 # Wireframe V.1
 ....
@@ -99,6 +99,8 @@ wireframe, mockup, prototype (re-do), user flow diagram
 <p>
   <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
 </p>
+
+---------------------------------------------------------------------------
 
 # Wireframe V.2
 
@@ -199,11 +201,15 @@ Kittiphong is tech-savvy and used to working with digital systems to manage reso
 Personality:
 Responsible and detail-oriented. He cares deeply about environmental sustainability and public health. He is proactive in finding ways to improve systems for better management.
 
+---------------------------------------------------------------------------
+
 # User Scenario
 Sudarat Chaiyathavorn, a 35-year-old office manager, is looking to dispose of her broken phone responsibly. 
 She uses the app to locate the nearest collection point, but since she’s busy, she opts to request a pickup. 
 She schedules the pickup and receives confirmation through the app. After the pickup is completed, she checks the
 status of her e-waste using the blockchain ledger to ensure it was recycled properly.
+
+---------------------------------------------------------------------------
 
 # User Story
 
@@ -223,7 +229,7 @@ Notifications should be sent to users for confirmation, reminders, and status up
 
 The app should provide educational resources on the dangers of improper e-waste disposal.
 
---------------------------------------------------------------------------
+
 **User Story 2: Kittiphong Panya (E-Waste Management Worker)**
 As an e-waste management worker,
 I want to track and manage e-waste pickup requests from users in real-time,
@@ -240,7 +246,6 @@ Users should be able to rate the collection process, allowing Kittiphong to gath
 
 Kittiphong can also update the status of local collection points (e.g., hours of operation or changes in accepted waste types).
 
---------------------------------------------------------------------------
 
 **User Story 3: Sudarat Chaiyathavorn (End User - Consumer)**
 As a consumer who values transparency,
@@ -254,7 +259,6 @@ Sudarat can view details about where her e-waste was sent, whether it was recycl
 
 Users can access feedback on the e-waste management process, showing transparency and accountability.
 
---------------------------------------------------------------------------
 
 **User Story 4: Kittiphong Panya (E-Waste Management Worker)**
 
