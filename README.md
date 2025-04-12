@@ -28,7 +28,8 @@ Each item shows its current status (pending, scheduled, completed, etc.).
 
 **4. Choose Disposal Method**
 
-a) Request a Collector Pickup
+**a) Request a Collector Pickup**
+
 When the user requests a pickup:
 
 They select a pickup location on the map (can be different from their profile address).
@@ -55,7 +56,7 @@ How these points are used depends on the company, NGO, or organization running t
 
 Points may be redeemed for eco-friendly rewards, gift cards, certificates, or community benefits.
 
-b) Drop Off at a Nearby Bin
+**b) Drop Off at a Nearby Bin**
 Users can also drop off items at designated e-waste bins, shown on an interactive map.
 
 These bins are emptied regularly, and items are forwarded to the sorting center.
