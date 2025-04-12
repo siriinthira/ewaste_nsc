@@ -1,6 +1,77 @@
 # e-Waste
 Build a Prototype of an e-Waste Management System
 
+# ♻️ How the E-Waste Management App Works
+
+**1. User Profile Setup**
+Users register with their name, contact details, and default address.
+
+This info helps in tracking pickups, item history, and communication.
+
+**2. Add E-Waste Items**
+Users log items they want to dispose of, providing:
+
+Item Genre (e.g., mobile phone, monitor, battery)
+
+Weight
+
+Size
+
+Quantity or Estimated Value
+
+Photo of the Item
+
+**3. View Submitted Items**
+Users can review, edit, or delete previously added items.
+
+Each item shows its current status (pending, scheduled, completed, etc.).
+
+**4. Choose Disposal Method**
+a) Request a Collector Pickup
+When the user requests a pickup:
+
+They select a pickup location on the map (can be different from their profile address).
+
+A volunteer collector is notified and goes to the selected location.
+
+The items are picked up and delivered to the Collection & Sorting Center (ศูนย์รวบรวมและคัดแยกขยะ).
+
+**✅ Collector Incentive System**
+
+Volunteer collectors receive points for each pickup they complete.
+
+Points may depend on factors like:
+
+Type and weight of e-waste
+
+Distance traveled
+
+Number of pickups completed
+
+**🎁 Rewards & Recognition**
+
+How these points are used depends on the company, NGO, or organization running the program.
+
+Points may be redeemed for eco-friendly rewards, gift cards, certificates, or community benefits.
+
+b) Drop Off at a Nearby Bin
+Users can also drop off items at designated e-waste bins, shown on an interactive map.
+
+These bins are emptied regularly, and items are forwarded to the sorting center.
+
+**5. Sorting & Confidentiality Checks**
+At the Sorting Center, items are:
+
+Verified and sorted
+
+Devices with personal or sensitive data undergo secure data wiping or destruction
+
+**6. Recycling Process (คัดแยกชิ้นส่วน รีไซเคิล)**
+Items are forwarded to certified recycling facilities for:
+
+Disassembly (คัดแยกชิ้นส่วน)
+
+Material recovery and reuse
 ---------------------------------------------------------------------------
 # UX UI Design Process
 
