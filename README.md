@@ -2,7 +2,7 @@
 Build a Prototype of an e-Waste Management System
 
 ---------------------------------------------------------------------------
-# UX UI Designer
+# UX UI Design Process
 
 # Empathize 
 The empathize stage involves understanding the users and their needs in order to create a solution that addresses the challenges they face in managing e-waste. Based on the provided concept, the target users are:
