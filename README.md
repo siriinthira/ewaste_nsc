@@ -102,7 +102,7 @@ The empathize stage involves understanding the users and their needs in order to
 **Environmental impact** is a concern for all parties, so the solution should highlight sustainability and health safety.
 
 **KPI:**
-Carbon Reduction
+Carbon Reduction (%)
 
 # Define
 
