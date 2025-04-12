@@ -27,6 +27,7 @@ Users can review, edit, or delete previously added items.
 Each item shows its current status (pending, scheduled, completed, etc.).
 
 **4. Choose Disposal Method**
+
 a) Request a Collector Pickup
 When the user requests a pickup:
 
