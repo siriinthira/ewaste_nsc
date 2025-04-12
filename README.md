@@ -4,11 +4,13 @@ Build a Prototype of an e-Waste Management System
 # ♻️ How the E-Waste Management App Works
 
 **1. User Profile Setup**
+
 Users register with their name, contact details, and default address.
 
 This info helps in tracking pickups, item history, and communication.
 
 **2. Add E-Waste Items**
+
 Users log items they want to dispose of, providing:
 
 Item Genre (e.g., mobile phone, monitor, battery)
@@ -22,6 +24,7 @@ Quantity or Estimated Value
 Photo of the Item
 
 **3. View Submitted Items**
+
 Users can review, edit, or delete previously added items.
 
 Each item shows its current status (pending, scheduled, completed, etc.).
@@ -57,11 +60,13 @@ How these points are used depends on the company, NGO, or organization running t
 Points may be redeemed for eco-friendly rewards, gift cards, certificates, or community benefits.
 
 **b) Drop Off at a Nearby Bin**
+
 Users can also drop off items at designated e-waste bins, shown on an interactive map.
 
 These bins are emptied regularly, and items are forwarded to the sorting center.
 
 **5. Sorting & Confidentiality Checks**
+
 At the Sorting Center, items are:
 
 Verified and sorted
@@ -69,11 +74,13 @@ Verified and sorted
 Devices with personal or sensitive data undergo secure data wiping or destruction
 
 **6. Recycling Process**
+
 Items are forwarded to certified recycling facilities for:
 
 Disassembly 
 
 Material recovery and reuse
+
 ---------------------------------------------------------------------------
 # UX UI Design Process
 
