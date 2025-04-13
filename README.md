@@ -154,7 +154,6 @@ In Thailand, the amount of e-waste is increasing significantly, and people do no
 
 <img src = "https://github.com/user-attachments/assets/bd6b311e-995d-4c4d-b405-aeee7d081454"/>
 
-**User Persona 2:**
 
 <img src = "https://github.com/user-attachments/assets/ed11b302-719e-44fa-ab5a-f110da229cdc"/>
 
