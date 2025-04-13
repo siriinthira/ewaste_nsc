@@ -152,34 +152,7 @@ In Thailand, the amount of e-waste is increasing significantly, and people do no
 
 # User Persona
 
-**User Persona 1:**
-
-Name: Sudarat Chaiyathavorn
-Age: 35
-Occupation: Office Manager
-Location: Bangkok, Thailand
-Technology Use: Active smartphone user, familiar with apps, but not very tech-savvy
-
-Goals:
-Dispose of her old electronics in a safe, environmentally-friendly manner.
-
-Find nearby e-waste collection points or arrange for a pickup without any hassle.
-
-Contribute to environmental sustainability.
-
-Pain Points:
-
-Doesn’t know where to dispose of old electronics like broken phones, chargers, and used batteries.
-
-Unsure about the proper way to dispose of e-waste to prevent harm to the environment.
-
-Concerned about privacy and safety in sharing her personal information when disposing of electronic waste.
-
-Technology Comfort:
-Sudarat is comfortable with smartphones and uses apps for daily tasks but requires a simple, straightforward interface.
-
-Personality:
-Practical and solution-oriented. She values convenience, sustainability, and transparency. She wants to contribute to a cleaner environment but is not familiar with e-waste management procedures.
+<img src = "https://github.com/user-attachments/assets/bd6b311e-995d-4c4d-b405-aeee7d081454"/>
 
 **User Persona 2:**
 
