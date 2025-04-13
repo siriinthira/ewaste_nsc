@@ -156,31 +156,7 @@ In Thailand, the amount of e-waste is increasing significantly, and people do no
 
 **User Persona 2:**
 
-Name: Kittiphong Panya
-Age: 40
-Occupation: Environmental Agency Worker (E-Waste Collector)
-Location: Chiang Mai, Thailand
-Technology Use: Comfortable using mobile apps and software for work and personal use
-
-Goals:
-Monitor the status of e-waste collection and ensure proper recycling/disposal.
-
-Receive and process user requests for e-waste pickup or drop-off at local collection points.
-
-Improve the efficiency and transparency of the e-waste management process through technology.
-
-Pain Points:
-Difficulties in tracking the volume of e-waste and ensuring timely collection.
-
-Lack of real-time communication with users about their disposal requests and the status of their e-waste.
-
-Uncertainty about whether collected e-waste is being disposed of properly, which could affect public health and the environment.
-
-Technology Comfort:
-Kittiphong is tech-savvy and used to working with digital systems to manage resources and track processes.
-
-Personality:
-Responsible and detail-oriented. He cares deeply about environmental sustainability and public health. He is proactive in finding ways to improve systems for better management.
+<img src = "https://github.com/user-attachments/assets/ed11b302-719e-44fa-ab5a-f110da229cdc"/>
 
 
 
