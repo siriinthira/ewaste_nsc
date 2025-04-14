@@ -1,7 +1,8 @@
 # e-Waste
 Build a Prototype of an e-Waste Management System
 
-**E-Waste Management App - Project Goal**
+**Project Goal**
+
 The goal of the E-Waste Management App is to provide a user-friendly, efficient, and secure platform for individuals to dispose of electronic waste responsibly. The app aims to:
 
 Streamline e-waste disposal through easy-to-use features for logging items and choosing between pickup or drop-off methods.
