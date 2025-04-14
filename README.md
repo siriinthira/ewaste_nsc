@@ -138,6 +138,37 @@ App Rating: Measure user feedback and satisfaction through ratings and reviews.
 **Problem Statement:**
 In Thailand, the amount of e-waste is increasing significantly, and people do not have an efficient or convenient way to dispose of their e-waste. Improper disposal leads to environmental degradation, health risks, and reduced quality of life. There is a lack of transparency in the management of e-waste disposal, and citizens are often unaware of where to dispose of their electronic waste.
 
+♻️ **User Needs – Summary**
+Easy and convenient ways to dispose of e-waste
+(via pickup requests or nearby drop-off bins)
+
+Clear instructions on acceptable e-waste items
+(item types, preparation steps, etc.)
+
+Real-time tracking and status updates
+(from item submission to recycling)
+
+Assurance of secure data handling
+(especially for devices with personal information)
+
+Incentives and rewards for participation
+(eco-points, certificates, community recognition)
+
+Educational insights about environmental impact
+(e.g., how recycling helps reduce pollution)
+
+Simple and user-friendly app experience
+(intuitive design, easy navigation)
+
+Personalized profile and history tracking
+(view past submissions, manage pickups)
+
+Local language and regional support
+(for accessibility and relevance)
+
+Trustworthy and transparent process
+(with certified partners and ethical practices)
+
 **Design Goals:**
 
 **Provide convenience:** Users should be able to easily find e-waste disposal points near them and request assistance (volunteers) for pickup.
@@ -147,6 +178,8 @@ In Thailand, the amount of e-waste is increasing significantly, and people do no
 **Raise awareness:** Provide users with clear information about the environmental impact and health risks of improper e-waste disposal.
 
 **Increase user engagement:** Create a sense of community involvement in proper e-waste management.
+
+
 
 
 
