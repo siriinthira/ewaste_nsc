@@ -149,10 +149,12 @@ App Rating: Measure user feedback and satisfaction through ratings and reviews.
 
 # Define
 
-**Problem Statement:**
+💡 **Problem Statement**
+
 In Thailand, the amount of e-waste is increasing significantly, and people do not have an efficient or convenient way to dispose of their e-waste. Improper disposal leads to environmental degradation, health risks, and reduced quality of life. There is a lack of transparency in the management of e-waste disposal, and citizens are often unaware of where to dispose of their electronic waste.
 
-♻️ **User Needs – Summary**
+🧠 **User Needs**
+
 Easy and convenient ways to dispose of e-waste
 (via pickup requests or nearby drop-off bins)
 
@@ -183,7 +185,7 @@ Local language and regional support
 Trustworthy and transparent process
 (with certified partners and ethical practices)
 
-**Design Goals:**
+🎯 **Design Goals:**
 
 **Provide convenience:** Users should be able to easily find e-waste disposal points near them and request assistance (volunteers) for pickup.
 
