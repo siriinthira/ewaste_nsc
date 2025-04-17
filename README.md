@@ -210,11 +210,12 @@ Trustworthy and transparent process
 
 
 # User Scenario
-Sudarat Chaiyathavorn, a 35-year-old office manager, is looking to dispose of her broken phone responsibly. 
-She uses the app to locate the nearest collection point, but since she’s busy, she opts to request a pickup. 
-She schedules the pickup and receives confirmation through the app. After the pickup is completed, she checks the
-status of her e-waste using the blockchain ledger to ensure it was recycled properly.
 
+
+<img src = "https://github.com/user-attachments/assets/5ed85ccb-a417-4b0a-969e-5d6c563616a6"/>
+
+
+<img src = "https://github.com/user-attachments/assets/dd8fd77b-a8ee-4164-a3e1-aecc14ba8050"/>
 
 
 # User Journey & Pain Points
