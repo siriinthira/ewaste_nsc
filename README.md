@@ -212,10 +212,10 @@ Trustworthy and transparent process
 # User Scenario
 
 
-<img src = "https://github.com/user-attachments/assets/5ed85ccb-a417-4b0a-969e-5d6c563616a6"/>
+<img src = "https://github.com/user-attachments/assets/199ed7da-9cd0-425f-abb1-3c21126ce5e8"/>
 
 
-<img src = "https://github.com/user-attachments/assets/dd8fd77b-a8ee-4164-a3e1-aecc14ba8050"/>
+<img src = "https://github.com/user-attachments/assets/45636610-6458-4105-85a8-8bccb997aae1"/>
 
 
 # User Journey & Pain Points
