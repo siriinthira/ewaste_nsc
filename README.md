@@ -204,7 +204,7 @@ Trustworthy and transparent process
 <img src = "https://github.com/user-attachments/assets/efa7cb75-805d-4c00-9018-1f3433509f2c"/>
 
 
-<img src = "https://github.com/user-attachments/assets/5a493ac5-c208-4a7d-b98a-ac8140c5dd6b"/>
+<img src = "https://github.com/user-attachments/assets/71374ea7-db2b-47f8-b14c-16d6bed31f06"/>
 
 
 
