@@ -201,10 +201,10 @@ Trustworthy and transparent process
 
 # User Persona
 
-<img src = "https://github.com/user-attachments/assets/bd6b311e-995d-4c4d-b405-aeee7d081454"/>
+<img src = "https://github.com/user-attachments/assets/efa7cb75-805d-4c00-9018-1f3433509f2c"/>
 
 
-<img src = "https://github.com/user-attachments/assets/ed11b302-719e-44fa-ab5a-f110da229cdc"/>
+<img src = "https://github.com/user-attachments/assets/5a493ac5-c208-4a7d-b98a-ac8140c5dd6b"/>
 
 
 
