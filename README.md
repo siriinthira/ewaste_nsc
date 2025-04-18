@@ -101,72 +101,18 @@ Material recovery and reuse
 # UX UI Design Process
 
 # Empathize 
-The empathize stage involves understanding the users and their needs in order to create a solution that addresses the challenges they face in managing e-waste. 
 
-**Target Users:**
+<img src = "https://github.com/user-attachments/assets/5fa51488-efee-47fe-9170-9a78dc43a297"/>
 
-**People who need to dispose of electronic waste (E-Waste):** This includes general consumers who have non-functional electronics or electronics that have reached the end of their useful life. They may not know where to dispose of them or how to do it responsibly.
 
-**Stakeholders in e-waste management:** This includes volunteers, government agencies, and private organizations responsible for the collection, recycling, and disposal of e-waste. These users need tools to track the disposal process and ensure proper handling of waste.
-
-**Key insights from user research:**
-
-**People** need a simple, convenient, and trustworthy way to dispose of e-waste.
-
-**Stakeholders** need efficient tools to monitor and manage the disposal process, as well as ensure transparency and accountability.
-
-**Environmental impact** is a concern for all parties, so the solution should highlight sustainability and health safety.
-
+<img src = "https://github.com/user-attachments/assets/4b336d9a-6668-4373-9eba-59d7d4504f0f"/>
 
 
 # Define
 
-🔍 **Problem Statement**
-
-In Thailand, the amount of e-waste is increasing significantly, and people do not have an efficient or convenient way to dispose of their e-waste. Improper disposal leads to environmental degradation, health risks, and reduced quality of life. There is a lack of transparency in the management of e-waste disposal, and citizens are often unaware of where to dispose of their electronic waste.
-
-🧠 **User Needs**
-
-Easy and convenient ways to dispose of e-waste
-(via pickup requests or nearby drop-off bins)
-
-Clear instructions on acceptable e-waste items
-(item types, preparation steps, etc.)
-
-Real-time tracking and status updates
-(from item submission to recycling)
-
-Assurance of secure data handling
-(especially for devices with personal information)
-
-Incentives and rewards for participation
-(eco-points, certificates, community recognition)
-
-Educational insights about environmental impact
-(e.g., how recycling helps reduce pollution)
-
-Simple and user-friendly app experience
-(intuitive design, easy navigation)
-
-Personalized profile and history tracking
-(view past submissions, manage pickups)
-
-Local language and regional support
-(for accessibility and relevance)
-
-Trustworthy and transparent process
-(with certified partners and ethical practices)
-
-🎯 **Design Goals:**
-
-**Provide convenience:** Users should be able to easily find e-waste disposal points near them and request assistance (volunteers) for pickup.
-
-**Ensure accountability:** Using Blockchain to track and provide transparency regarding the status of e-waste disposal.
-
-**Raise awareness:** Provide users with clear information about the environmental impact and health risks of improper e-waste disposal.
-
-**Increase user engagement:** Create a sense of community involvement in proper e-waste management.
-
+<img src = "https://github.com/user-attachments/assets/ff9ed8d5-3e59-4e30-9191-907608a3f9c4"/>
+<img src = "https://github.com/user-attachments/assets/d81ffa51-dcd1-4a71-a5a2-5e61f584cb95"/>
+<img src = "https://github.com/user-attachments/assets/f0f9d8d3-df3d-4e85-b058-9b62dc9445f8"/>
 
 
 
