@@ -141,17 +141,6 @@ Material recovery and reuse
 
 # User Story
 
-
-**Acceptance Criteria:**
-
-
-
-
-
-
-**User Story 4: Kittiphong Panya (E-Waste Management Worker)**
-
-
 <img src = "https://github.com/user-attachments/assets/dbd6be26-680d-4b6f-a29c-a3073f2d900d"/>
 <img src = "https://github.com/user-attachments/assets/96a3c103-9ecf-44e5-bc65-ba62e4dd6a54"/>
 <img src = "https://github.com/user-attachments/assets/617025a0-ff4f-4c6a-8d7a-716a898991c2"/>
