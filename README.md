@@ -141,67 +141,26 @@ Material recovery and reuse
 
 # User Story
 
-**User Story 1: Sudarat Chaiyathavorn (End User - Consumer)**
-As a consumer who needs to dispose of old electronics,
-I want to easily find nearby e-waste collection points or request a pickup,
-so that I can safely and conveniently dispose of my old electronics without contributing to environmental harm.
 
 **Acceptance Criteria:**
-The app should have an interactive map showing nearby e-waste collection points.
-
-The user can filter results by the types of e-waste accepted and their operating hours.
-
-A simple, intuitive interface allows users to request a pickup and schedule a time for a volunteer to collect the waste.
-
-Notifications should be sent to users for confirmation, reminders, and status updates on pickup.
-
-The app should provide educational resources on the dangers of improper e-waste disposal.
 
 
-**User Story 2: Kittiphong Panya (E-Waste Management Worker)**
-As an e-waste management worker,
-I want to track and manage e-waste pickup requests from users in real-time,
-so that I can efficiently collect and dispose of electronic waste, ensuring it is handled responsibly.
-
-**Acceptance Criteria:**
-The app allows Kittiphong to view requests for pickups from users in real-time and track the status of each request.
-
-Kittiphong can confirm when a pickup has been completed, and the app will automatically update the user.
-
-The app should integrate with a blockchain ledger to track the disposal process and ensure transparency, showing where the e-waste goes after it is collected.
-
-Users should be able to rate the collection process, allowing Kittiphong to gather feedback on the service and improve operations.
-
-Kittiphong can also update the status of local collection points (e.g., hours of operation or changes in accepted waste types).
 
 
-**User Story 3: Sudarat Chaiyathavorn (End User - Consumer)**
-As a consumer who values transparency,
-I want to see the status of my e-waste after disposal,
-so that I can be assured that my waste was handled properly and ethically.
-
-**Acceptance Criteria:**
-After a successful disposal or pickup, the app should provide a blockchain-based record showing the status of the e-waste from collection to final disposal.
-
-Sudarat can view details about where her e-waste was sent, whether it was recycled or disposed of responsibly, and the impact on the environment.
-
-Users can access feedback on the e-waste management process, showing transparency and accountability.
 
 
 **User Story 4: Kittiphong Panya (E-Waste Management Worker)**
 
-As an e-waste management worker,
-I want to ensure that the e-waste collected is disposed of according to regulations,
-so that I can maintain public trust and comply with environmental regulations.
 
-Acceptance Criteria:
-The app should allow Kittiphong to log each collected item, detailing its type and the responsible recycling or disposal method used.
+<img src = "https://github.com/user-attachments/assets/dbd6be26-680d-4b6f-a29c-a3073f2d900d"/>
+<img src = "https://github.com/user-attachments/assets/96a3c103-9ecf-44e5-bc65-ba62e4dd6a54"/>
+<img src = "https://github.com/user-attachments/assets/617025a0-ff4f-4c6a-8d7a-716a898991c2"/>
+<img src = "https://github.com/user-attachments/assets/6004875e-63d7-4fab-849e-b91211d9fa67"/>
+<img src = "https://github.com/user-attachments/assets/037ec609-eda8-45a1-aac6-54beff47da79"/>
+<img src = "https://github.com/user-attachments/assets/a2fcb1f3-a479-4196-a3c6-0356a428e155"/>
+<img src = "https://github.com/user-attachments/assets/2d6dccc4-1683-4fb9-8ae8-1a27288808f9"/>
+<img src = "https://github.com/user-attachments/assets/ace39108-6397-4a99-a611-213b1e298256"/>
 
-The app will provide guidelines for e-waste disposal, ensuring compliance with local and international environmental laws.
-
-A transparent ledger on the blockchain will record all actions taken during the disposal process for auditability.
-
-Kittiphong should have access to a report showing the types and amounts of e-waste collected to optimize future collection efforts.
 
 # User Journey & Pain Points
 
