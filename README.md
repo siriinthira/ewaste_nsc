@@ -160,12 +160,6 @@ Launch App → Find Nearby Collection Points → Select Pickup Option → Confir
 
 ---------------------------------------------------------------------------
 
-# User Flow v1
-...
-
-# Wireframe v1
-....
-
 # Mockup v1
 https://www.figma.com/design/VtwxFNgE29Y8gkZaFlGXQv/E-waste?node-id=0-1&t=AeWEGPC0mlk2p8Yq-1
 
@@ -177,10 +171,6 @@ wireframe, mockup, prototype (re-do), user flow diagram
 <p>
   <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
 </p>
-
----------------------------------------------------------------------------
-
-# Usability Testing v1
 
 ---------------------------------------------------------------------------
 
@@ -222,6 +212,9 @@ Display user’s past e-waste disposal history, feedback, and rewards earned.
 # Mockup v2
 
 # Prototype v2
+
+# Usability Testing v1
+
 
 ----------------------------------------------------------------------------------
 
