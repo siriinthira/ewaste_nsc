@@ -153,10 +153,7 @@ Material recovery and reuse
 
 # User Journey & Pain Points
 
-A user journey for Sudarat:
-
-Launch App → Find Nearby Collection Points → Select Pickup Option → Confirm Pickup Time → Receive Pickup Confirmation → Wait for Pickup → Check Blockchain Status After Disposal → Rate the Service.
-
+<img width="2100" height="1761" alt="Image" src="https://github.com/user-attachments/assets/bcd6d956-7d50-4b0e-87c1-a2ebea816874" />
 
 ---------------------------------------------------------------------------
 
@@ -176,7 +173,66 @@ wireframe, mockup, prototype (re-do), user flow diagram
 
 
 # Usability Testing Feedback
-...
+
+App Navigation
+
+Users found the navigation intuitive overall, but some icons lacked clear labels.
+
+The “Add Items” and “View Items” pages were easy to access, but switching between them was not always seamless.
+
+Item Upload Process
+
+Uploading images worked well on most devices.
+
+Some users were unsure which item details were mandatory.
+
+Auto-fill suggestions for common e-waste items were requested.
+
+Pickup Request Flow
+
+Users appreciated the step-by-step pickup process.
+
+Some confusion occurred when selecting a pickup location and time.
+
+Clearer guidance and confirmation messages were needed.
+
+Estimated Pickup Time
+
+Users wanted real-time updates on collector arrival.
+
+The estimated time was sometimes too vague (e.g., “afternoon” instead of a specific range).
+
+Tracking & Status
+
+Users liked the idea of blockchain tracking but found the status terminology technical or unclear.
+
+A simplified visual or timeline view was recommended.
+
+Accessibility & Inclusivity
+
+Font size was too small for some users, especially older adults.
+
+Color contrast was adequate but could be improved for colorblind users.
+
+User Emotions & Engagement
+
+Teachers and students felt proud and involved in real-world sustainability.
+
+Users wanted more interactive feedback after handover (e.g., “Your device is now being recycled”).
+
+Rating & Feedback
+
+Some users skipped the service rating step due to lack of prompt or incentive.
+
+Suggested adding quick emoji or star ratings to encourage more feedback.
+
+Suggestions for Improvement
+
+Add tooltips or helper text on each screen.
+
+Allow saving draft item entries before submitting.
+
+Provide educational facts or gamification elements for student users.
 
 ---------------------------------------------------------------------------
 
