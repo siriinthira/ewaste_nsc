@@ -213,7 +213,7 @@ Display user’s past e-waste disposal history, feedback, and rewards earned.
 
 # Prototype v2
 
-# Usability Testing v1
+# Usability Testing v2
 
 
 ----------------------------------------------------------------------------------
