@@ -174,9 +174,7 @@ wireframe, mockup, prototype (re-do), user flow diagram
 
 ---------------------------------------------------------------------------
 
-# User Flow v2
-
-# Wireframe v2
+# Ideas for Improvement
 
 **Wireframe & User Flow Ideas:**
 
@@ -207,13 +205,6 @@ A visual ledger showing the journey of the e-waste: pick-up, transportation, rec
 **User Profile:**
 
 Display user’s past e-waste disposal history, feedback, and rewards earned.
-
-
-# Mockup v2
-
-# Prototype v2
-
-# Usability Testing v2
 
 
 ----------------------------------------------------------------------------------
